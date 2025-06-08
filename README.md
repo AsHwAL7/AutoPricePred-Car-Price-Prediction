@@ -1,11 +1,9 @@
 # AutoPricePred-Car-Price-Prediction
-Car Price Prediction
+## Car Price Prediction
 
-Overview
+## Overview
 
 Predicts used car prices based on features like mileage, engine type, brand, and transmission. Built using Python and XGBoost.
-
-PRCP-1017-AutoPricePred
 
 Problem Statement
 
@@ -14,7 +12,7 @@ Task 1:-Prepare a complete data analysis report on the given data.
 Task 2:-Create a predictive model by applying some data science techniques for the price of cars with the available independent variables. That should help the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels
  
 
-Attribute Information:
+## Attribute Information:
 Attribute: Attribute Range
 
 1. symboling: -3, -2, -1, 0, 1, 2, 3.
@@ -49,12 +47,12 @@ renault, saab, subaru, toyota, volkswagen, volvo
 25. highway-mpg: continuous from 16 to 54.
 26. price: continuous from 5118 to 45400.
 
-Model Comparison Report
+## Model Comparison Report
 
 Create a report stating the performance of multiple models on this data and suggest the best model for production.
 
 
-Key Features:
+## Key Features:
 
 -Regression model trained on 26+ features
 
@@ -64,9 +62,9 @@ Key Features:
 
 -RMSE evaluation metric for accuracy
 
--Tools & Libraries: Python, Pandas, scikit-learn, XGBoost, Matplotlib
+## Tools & Libraries: Python, Pandas, scikit-learn, XGBoost, Matplotlib
 
-Outcome: Achieved RMSE reduction and insights into key pricing factors
+## Outcome: Achieved RMSE reduction and insights into key pricing factors
 
 
 
