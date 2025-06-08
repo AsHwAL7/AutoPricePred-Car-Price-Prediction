@@ -47,11 +47,6 @@ renault, saab, subaru, toyota, volkswagen, volvo
 25. highway-mpg: continuous from 16 to 54.
 26. price: continuous from 5118 to 45400.
 
-## Model Comparison Report
-
-Create a report stating the performance of multiple models on this data and suggest the best model for production.
-
-
 ## Key Features:
 
 -Regression model trained on 26+ features
